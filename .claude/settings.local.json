@@ -3,7 +3,16 @@
     "allow": [
       "Bash(npm view:*)",
       "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --turbopack --no-git)",
-      "Bash(npx shadcn@latest init -d)"
+      "Bash(npx shadcn@latest init -d)",
+      "Bash(npx shadcn@latest add card input textarea badge separator sheet -d)",
+      "Bash(npx shadcn@latest add card input textarea badge separator sheet --yes)",
+      "Bash(npm run:*)",
+      "Bash(taskkill /PID 5656 /F)",
+      "Bash(pkill -f \"next dev\")",
+      "Bash(netstat -tln)",
+      "Bash(wmic process:*)",
+      "Bash(awk '{print $1}')",
+      "Bash(curl -s http://localhost:3001)"
     ]
   }
 }
