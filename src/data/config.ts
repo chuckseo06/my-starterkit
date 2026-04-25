@@ -5,7 +5,7 @@ import type { AtelierConfig } from "@/types";
  * 이 파일만 수정하면 다른 공방으로 커스터마이징이 완료됩니다.
  */
 export const atelierConfig: AtelierConfig = {
-  name: "아틀리에 가죽",
+  name: "아뜰리에 공방",
   tagline: "손으로 만드는 이야기",
   description:
     "2015년부터 시작된 핸드메이드 가죽 공방입니다. 하나하나 정성껏 만드는 수공예 가죽 제품과 클래스를 운영합니다.",
